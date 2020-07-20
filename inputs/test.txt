@@ -1,0 +1,12 @@
+n A 1 1
+n B 1 1
+n C 1 1
+n D 1 1
+n E 1 1
+n F 1 1
+e A B
+e A C
+e A D
+e B C
+e B E
+e C F
